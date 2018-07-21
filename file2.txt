@@ -1,2 +1,5 @@
-file 2
 created on PC
+
+added 3 more lines
+on Mac
+and deleted the first line that said file 2
